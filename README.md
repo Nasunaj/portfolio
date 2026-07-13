@@ -42,7 +42,7 @@ Currently:
 
 ### 💻 Full-stack development
 - **Backend**: Python (Django, Flask), R (Shiny)
-- **Frontend**: **JavaScript, HTML5, CSS3**
+- **Frontend**: JavaScript, HTML5, CSS3
 - **Web scraping**: BeautifulSoup, Requests, Scrapy
 - **APIs**: RESTful API development
 
@@ -83,9 +83,9 @@ Currently:
 #### 🎬 **[ocmovies_frontend](https://github.com/Nasunaj/ocmovies_frontend)**
 > Frontend for a Python web application managing movies
 
-- **Description**: complete user interface developed in **HTML5, CSS3, and JavaScript**
+- **Description**: complete user interface developed in HTML5, CSS3, and JavaScript
 - **Features**: dynamic display, search, filtering
-- **Technologies**: **JavaScript, HTML5, CSS3**
+- **Technologies**: JavaScript, HTML5, CSS3
 - **Status**: ✅ completed
 
 #### 🏗️ **[design_appli_python](https://github.com/Nasunaj/design_appli_python)**
@@ -117,8 +117,8 @@ Currently:
 
 - **Description**: web platform for publishing and reading literary reviews
 - **Features**: user authentication, CRUD operations, search functionality
-- **Technologies**: Python, **Django, HTML5, CSS3, JavaScript**
-- **Status**: ✅ In development
+- **Technologies**: Python, Django, HTML5, CSS3, JavaScript
+- **Status**: ✅ completed
 
 ---
 
@@ -149,8 +149,4 @@ I'm open to:
 
 ---
 
-## 📜 License
-All my projects are **MIT licensed** unless otherwise stated.
-
----
 *Last updated: July 2026*
